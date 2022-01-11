@@ -1,0 +1,28 @@
+How To Make Website 
+background image 
+
+
+
+Github setup 
+
+
+photopea.com
+figma 
+
+
+font-family 
+
+live server vs code 
+
+header 
+
+div 
+
+flex 
+section 
+
+box shadow 
+
+border-image 
+linier gradient 
+border-image-slice 

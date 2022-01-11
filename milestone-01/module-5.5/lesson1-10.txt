@@ -1,0 +1,26 @@
+Inline 
+Block 
+Inline-Block ( only aiobosthai upore nicha margin padding use kora jai  )
+
+PSEUDO CLASS 
+:hover 
+:focus 
+:visited
+:first-child
+:last-child
+:nth-child(n , n+1 , 2n+1 , 2n )  ========== like samantor dara
+
+
+PSEUDO ELEMENT 
+::before
+::after
+{
+    content : 'hello';
+}
+
+
+POSITION 
+relative 
+absoulate
+sticky
+fixed
